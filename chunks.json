@@ -1,0 +1,3185 @@
+{
+  "easy": [
+    {
+      "id": "chunk_e01",
+      "objects": [
+        {
+          "type": "hamburger",
+          "x": 450,
+          "y": -150
+        },
+        {
+          "type": "hamburger",
+          "x": 630,
+          "y": -350
+        },
+        {
+          "type": "hamburger",
+          "x": 480,
+          "y": -550
+        },
+        {
+          "type": "tomato",
+          "x": 540,
+          "y": -750
+        },
+        {
+          "type": "hamburger",
+          "x": 455,
+          "y": -950
+        },
+        {
+          "type": "hamburger",
+          "x": 635,
+          "y": -1150
+        },
+        {
+          "type": "tomato",
+          "x": 520,
+          "y": -1350
+        }
+      ]
+    },
+    {
+      "id": "chunk_e02",
+      "objects": [
+        {
+          "type": "hamburger",
+          "x": 610,
+          "y": -150
+        },
+        {
+          "type": "hamburger",
+          "x": 440,
+          "y": -350
+        },
+        {
+          "type": "hamburger",
+          "x": 655,
+          "y": -550
+        },
+        {
+          "type": "roller",
+          "x": 480,
+          "y": -750
+        },
+        {
+          "type": "chef",
+          "x": 540,
+          "y": -950,
+          "hp": 2
+        },
+        {
+          "type": "hamburger",
+          "x": 450,
+          "y": -1150
+        },
+        {
+          "type": "hamburger",
+          "x": 580,
+          "y": -1350
+        }
+      ]
+    },
+    {
+      "id": "chunk_e03",
+      "objects": [
+        {
+          "type": "hamburger",
+          "x": 425,
+          "y": -150
+        },
+        {
+          "type": "tomato",
+          "x": 648,
+          "y": -350
+        },
+        {
+          "type": "hamburger",
+          "x": 470,
+          "y": -550
+        },
+        {
+          "type": "hamburger",
+          "x": 625,
+          "y": -750
+        },
+        {
+          "type": "chef",
+          "x": 540,
+          "y": -950,
+          "hp": 2
+        },
+        {
+          "type": "hamburger",
+          "x": 598,
+          "y": -1150
+        },
+        {
+          "type": "hamburger",
+          "x": 432,
+          "y": -1350
+        }
+      ]
+    },
+    {
+      "id": "chunk_e04",
+      "objects": [
+        {
+          "type": "hamburger",
+          "x": 635,
+          "y": -150
+        },
+        {
+          "type": "hamburger",
+          "x": 455,
+          "y": -350
+        },
+        {
+          "type": "hamburger",
+          "x": 610,
+          "y": -550
+        },
+        {
+          "type": "hamburger",
+          "x": 480,
+          "y": -750
+        },
+        {
+          "type": "tomato",
+          "x": 540,
+          "y": -950
+        },
+        {
+          "type": "tomato",
+          "x": 425,
+          "y": -1150
+        },
+        {
+          "type": "hamburger",
+          "x": 580,
+          "y": -1350
+        }
+      ]
+    },
+    {
+      "id": "chunk_e05",
+      "objects": [
+        {
+          "type": "hamburger",
+          "x": 598,
+          "y": -150
+        },
+        {
+          "type": "hamburger",
+          "x": 432,
+          "y": -350
+        },
+        {
+          "type": "roller",
+          "x": 647,
+          "y": -550
+        },
+        {
+          "type": "hamburger",
+          "x": 460,
+          "y": -750
+        },
+        {
+          "type": "hamburger",
+          "x": 625,
+          "y": -950
+        },
+        {
+          "type": "chef",
+          "x": 540,
+          "y": -1150,
+          "hp": 2
+        },
+        {
+          "type": "hamburger",
+          "x": 580,
+          "y": -1350
+        }
+      ]
+    },
+    {
+      "id": "chunk_e06",
+      "objects": [
+        {
+          "type": "hamburger",
+          "x": 438,
+          "y": -150
+        },
+        {
+          "type": "hamburger",
+          "x": 620,
+          "y": -350
+        },
+        {
+          "type": "single_rotator",
+          "x": 540,
+          "y": -750
+        },
+        {
+          "type": "hamburger",
+          "x": 450,
+          "y": -1150
+        },
+        {
+          "type": "tomato",
+          "x": 630,
+          "y": -1350
+        }
+      ]
+    },
+    {
+      "id": "chunk_e07",
+      "objects": [
+        {
+          "type": "hamburger",
+          "x": 645,
+          "y": -150
+        },
+        {
+          "type": "hamburger",
+          "x": 455,
+          "y": -350
+        },
+        {
+          "type": "hamburger",
+          "x": 610,
+          "y": -550
+        },
+        {
+          "type": "single_rotator",
+          "x": 540,
+          "y": -950
+        },
+        {
+          "type": "hamburger",
+          "x": 430,
+          "y": -1350
+        }
+      ]
+    },
+    {
+      "id": "chunk_e08",
+      "objects": [
+        {
+          "type": "hamburger",
+          "x": 450,
+          "y": -150
+        },
+        {
+          "type": "tomato",
+          "x": 635,
+          "y": -350
+        },
+        {
+          "type": "hamburger",
+          "x": 470,
+          "y": -550
+        },
+        {
+          "type": "single_rotator",
+          "x": 540,
+          "y": -950
+        },
+        {
+          "type": "hamburger",
+          "x": 620,
+          "y": -1350
+        }
+      ]
+    },
+    {
+      "id": "chunk_e09",
+      "objects": [
+        {
+          "type": "hamburger",
+          "x": 620,
+          "y": -150
+        },
+        {
+          "type": "lettuce",
+          "x": 445,
+          "y": -350
+        },
+        {
+          "type": "hamburger",
+          "x": 650,
+          "y": -550
+        },
+        {
+          "type": "tomato",
+          "x": 540,
+          "y": -750
+        },
+        {
+          "type": "lettuce",
+          "x": 430,
+          "y": -950
+        },
+        {
+          "type": "hamburger",
+          "x": 600,
+          "y": -1150
+        }
+      ]
+    },
+    {
+      "id": "chunk_e10",
+      "objects": [
+        {
+          "type": "hamburger",
+          "x": 430,
+          "y": -150
+        },
+        {
+          "type": "hamburger",
+          "x": 610,
+          "y": -350
+        },
+        {
+          "type": "roller",
+          "x": 470,
+          "y": -550
+        },
+        {
+          "type": "hamburger",
+          "x": 640,
+          "y": -750
+        },
+        {
+          "type": "chef",
+          "x": 540,
+          "y": -950,
+          "hp": 2
+        },
+        {
+          "type": "hamburger",
+          "x": 455,
+          "y": -1150
+        },
+        {
+          "type": "hamburger",
+          "x": 625,
+          "y": -1350
+        }
+      ]
+    },
+    {
+      "id": "chunk_e11",
+      "objects": [
+        {
+          "type": "hamburger",
+          "x": 455,
+          "y": -150
+        },
+        {
+          "type": "hamburger",
+          "x": 630,
+          "y": -350
+        },
+        {
+          "type": "tomato",
+          "x": 500,
+          "y": -550
+        },
+        {
+          "type": "hamburger",
+          "x": 610,
+          "y": -750
+        },
+        {
+          "type": "chef",
+          "x": 540,
+          "y": -950,
+          "hp": 3
+        },
+        {
+          "type": "hamburger",
+          "x": 445,
+          "y": -1150
+        },
+        {
+          "type": "hamburger",
+          "x": 635,
+          "y": -1350
+        }
+      ]
+    },
+    {
+      "id": "chunk_e12",
+      "objects": [
+        {
+          "type": "hamburger",
+          "x": 605,
+          "y": -150
+        },
+        {
+          "type": "hamburger",
+          "x": 440,
+          "y": -350
+        },
+        {
+          "type": "single_rotator",
+          "x": 540,
+          "y": -750
+        },
+        {
+          "type": "tomato",
+          "x": 470,
+          "y": -1150
+        },
+        {
+          "type": "hamburger",
+          "x": 625,
+          "y": -1350
+        }
+      ]
+    },
+    {
+      "id": "chunk_e13",
+      "objects": [
+        {
+          "type": "hamburger",
+          "x": 430,
+          "y": -150
+        },
+        {
+          "type": "hamburger",
+          "x": 640,
+          "y": -350
+        },
+        {
+          "type": "hamburger",
+          "x": 470,
+          "y": -550
+        },
+        {
+          "type": "double_rotator",
+          "x": 540,
+          "y": -950
+        },
+        {
+          "type": "hamburger",
+          "x": 620,
+          "y": -1350
+        }
+      ]
+    },
+    {
+      "id": "chunk_e14",
+      "objects": [
+        {
+          "type": "hamburger",
+          "x": 620,
+          "y": -150
+        },
+        {
+          "type": "hamburger",
+          "x": 445,
+          "y": -350
+        },
+        {
+          "type": "roller",
+          "x": 650,
+          "y": -550
+        },
+        {
+          "type": "hamburger",
+          "x": 470,
+          "y": -750
+        },
+        {
+          "type": "single_rotator",
+          "x": 540,
+          "y": -1150
+        }
+      ]
+    },
+    {
+      "id": "chunk_e15",
+      "objects": [
+        {
+          "type": "hamburger",
+          "x": 445,
+          "y": -150
+        },
+        {
+          "type": "hamburger",
+          "x": 625,
+          "y": -350
+        },
+        {
+          "type": "tomato",
+          "x": 520,
+          "y": -550
+        },
+        {
+          "type": "hamburger",
+          "x": 600,
+          "y": -750
+        },
+        {
+          "type": "single_rotator",
+          "x": 540,
+          "y": -1150
+        }
+      ]
+    },
+    {
+      "id": "chunk_e16",
+      "objects": [
+        {
+          "type": "hamburger",
+          "x": 635,
+          "y": -150
+        },
+        {
+          "type": "hamburger",
+          "x": 455,
+          "y": -350
+        },
+        {
+          "type": "hamburger",
+          "x": 610,
+          "y": -550
+        },
+        {
+          "type": "chef",
+          "x": 540,
+          "y": -750,
+          "hp": 2
+        },
+        {
+          "type": "tomato",
+          "x": 430,
+          "y": -950
+        },
+        {
+          "type": "hamburger",
+          "x": 625,
+          "y": -1150
+        },
+        {
+          "type": "hamburger",
+          "x": 500,
+          "y": -1350
+        }
+      ]
+    },
+    {
+      "id": "chunk_e17",
+      "objects": [
+        {
+          "type": "hamburger",
+          "x": 455,
+          "y": -150
+        },
+        {
+          "type": "single_rotator",
+          "x": 540,
+          "y": -550
+        },
+        {
+          "type": "hamburger",
+          "x": 630,
+          "y": -950
+        },
+        {
+          "type": "hamburger",
+          "x": 445,
+          "y": -1150
+        },
+        {
+          "type": "tomato",
+          "x": 620,
+          "y": -1350
+        }
+      ]
+    },
+    {
+      "id": "chunk_e18",
+      "objects": [
+        {
+          "type": "hamburger",
+          "x": 600,
+          "y": -150
+        },
+        {
+          "type": "hamburger",
+          "x": 430,
+          "y": -350
+        },
+        {
+          "type": "tomato",
+          "x": 645,
+          "y": -550
+        },
+        {
+          "type": "hamburger",
+          "x": 470,
+          "y": -750
+        },
+        {
+          "type": "chef",
+          "x": 540,
+          "y": -950,
+          "hp": 2
+        },
+        {
+          "type": "hamburger",
+          "x": 450,
+          "y": -1150
+        },
+        {
+          "type": "hamburger",
+          "x": 625,
+          "y": -1350
+        }
+      ]
+    },
+    {
+      "id": "chunk_e19",
+      "objects": [
+        {
+          "type": "hamburger",
+          "x": 430,
+          "y": -150
+        },
+        {
+          "type": "hamburger",
+          "x": 620,
+          "y": -350
+        },
+        {
+          "type": "double_rotator",
+          "x": 540,
+          "y": -750
+        },
+        {
+          "type": "hamburger",
+          "x": 450,
+          "y": -1150
+        },
+        {
+          "type": "hamburger",
+          "x": 630,
+          "y": -1350
+        }
+      ]
+    },
+    {
+      "id": "chunk_e20",
+      "objects": [
+        {
+          "type": "hamburger",
+          "x": 640,
+          "y": -150
+        },
+        {
+          "type": "roller",
+          "x": 455,
+          "y": -350
+        },
+        {
+          "type": "hamburger",
+          "x": 610,
+          "y": -550
+        },
+        {
+          "type": "hamburger",
+          "x": 470,
+          "y": -750
+        },
+        {
+          "type": "chef",
+          "x": 540,
+          "y": -950,
+          "hp": 2
+        },
+        {
+          "type": "hamburger",
+          "x": 430,
+          "y": -1150
+        },
+        {
+          "type": "hamburger",
+          "x": 600,
+          "y": -1350
+        }
+      ]
+    },
+    {
+      "id": "chunk_e21",
+      "objects": [
+        {
+          "type": "hamburger",
+          "x": 445,
+          "y": -150
+        },
+        {
+          "type": "hamburger",
+          "x": 630,
+          "y": -350
+        },
+        {
+          "type": "tomato",
+          "x": 520,
+          "y": -550
+        },
+        {
+          "type": "single_rotator",
+          "x": 540,
+          "y": -950
+        },
+        {
+          "type": "hamburger",
+          "x": 455,
+          "y": -1350
+        }
+      ]
+    },
+    {
+      "id": "chunk_e22",
+      "objects": [
+        {
+          "type": "hamburger",
+          "x": 620,
+          "y": -150
+        },
+        {
+          "type": "hamburger",
+          "x": 440,
+          "y": -350
+        },
+        {
+          "type": "hamburger",
+          "x": 645,
+          "y": -550
+        },
+        {
+          "type": "chef",
+          "x": 540,
+          "y": -750,
+          "hp": 3
+        },
+        {
+          "type": "hamburger",
+          "x": 430,
+          "y": -950
+        },
+        {
+          "type": "tomato",
+          "x": 610,
+          "y": -1150
+        },
+        {
+          "type": "hamburger",
+          "x": 455,
+          "y": -1350
+        }
+      ]
+    },
+    {
+      "id": "chunk_e23",
+      "objects": [
+        {
+          "type": "hamburger",
+          "x": 435,
+          "y": -150
+        },
+        {
+          "type": "tomato",
+          "x": 630,
+          "y": -350
+        },
+        {
+          "type": "hamburger",
+          "x": 470,
+          "y": -550
+        },
+        {
+          "type": "hamburger",
+          "x": 610,
+          "y": -750
+        },
+        {
+          "type": "single_rotator",
+          "x": 540,
+          "y": -1150
+        }
+      ]
+    },
+    {
+      "id": "chunk_e24",
+      "objects": [
+        {
+          "type": "hamburger",
+          "x": 615,
+          "y": -150
+        },
+        {
+          "type": "hamburger",
+          "x": 430,
+          "y": -350
+        },
+        {
+          "type": "roller",
+          "x": 650,
+          "y": -550
+        },
+        {
+          "type": "hamburger",
+          "x": 470,
+          "y": -750
+        },
+        {
+          "type": "chef",
+          "x": 540,
+          "y": -950,
+          "hp": 2
+        },
+        {
+          "type": "hamburger",
+          "x": 445,
+          "y": -1150
+        },
+        {
+          "type": "hamburger",
+          "x": 600,
+          "y": -1350
+        }
+      ]
+    },
+    {
+      "id": "chunk_e25",
+      "objects": [
+        {
+          "type": "hamburger",
+          "x": 450,
+          "y": -150
+        },
+        {
+          "type": "hamburger",
+          "x": 625,
+          "y": -350
+        },
+        {
+          "type": "double_rotator",
+          "x": 540,
+          "y": -750
+        },
+        {
+          "type": "hamburger",
+          "x": 470,
+          "y": -1150
+        },
+        {
+          "type": "tomato",
+          "x": 620,
+          "y": -1350
+        }
+      ]
+    }
+  ],
+  "medium": [
+    {
+      "id": "chunk_m01",
+      "objects": [
+        {
+          "type": "hamburger",
+          "x": 458,
+          "y": -150
+        },
+        {
+          "type": "hamburger",
+          "x": 543,
+          "y": -350
+        },
+        {
+          "type": "roller",
+          "x": 445,
+          "y": -550
+        },
+        {
+          "type": "hamburger",
+          "x": 637,
+          "y": -750
+        },
+        {
+          "type": "single_rotator",
+          "x": 540,
+          "y": -1150
+        }
+      ]
+    },
+    {
+      "id": "chunk_m02",
+      "objects": [
+        {
+          "type": "tomato",
+          "x": 429,
+          "y": -150
+        },
+        {
+          "type": "hamburger",
+          "x": 651,
+          "y": -350
+        },
+        {
+          "type": "hamburger",
+          "x": 440,
+          "y": -550
+        },
+        {
+          "type": "double_rotator",
+          "x": 540,
+          "y": -950
+        },
+        {
+          "type": "hamburger",
+          "x": 425,
+          "y": -1350
+        }
+      ]
+    },
+    {
+      "id": "chunk_m03",
+      "objects": [
+        {
+          "type": "hamburger",
+          "x": 572,
+          "y": -150
+        },
+        {
+          "type": "hamburger",
+          "x": 438,
+          "y": -350
+        },
+        {
+          "type": "single_rotator",
+          "x": 540,
+          "y": -750
+        },
+        {
+          "type": "hamburger",
+          "x": 448,
+          "y": -1150
+        },
+        {
+          "type": "tomato",
+          "x": 644,
+          "y": -1350
+        }
+      ]
+    },
+    {
+      "id": "chunk_m04",
+      "objects": [
+        {
+          "type": "hamburger",
+          "x": 658,
+          "y": -150
+        },
+        {
+          "type": "roller",
+          "x": 431,
+          "y": -350
+        },
+        {
+          "type": "hamburger",
+          "x": 597,
+          "y": -550
+        },
+        {
+          "type": "double_rotator",
+          "x": 540,
+          "y": -950
+        },
+        {
+          "type": "hamburger",
+          "x": 632,
+          "y": -1350
+        }
+      ]
+    },
+    {
+      "id": "chunk_m05",
+      "objects": [
+        {
+          "type": "hamburger",
+          "x": 623,
+          "y": -150
+        },
+        {
+          "type": "single_rotator",
+          "x": 540,
+          "y": -550
+        },
+        {
+          "type": "hamburger",
+          "x": 589,
+          "y": -950
+        },
+        {
+          "type": "hamburger",
+          "x": 432,
+          "y": -1150
+        },
+        {
+          "type": "tomato",
+          "x": 652,
+          "y": -1350
+        }
+      ]
+    },
+    {
+      "id": "chunk_m06",
+      "objects": [
+        {
+          "type": "hamburger",
+          "x": 440,
+          "y": -150
+        },
+        {
+          "type": "hamburger",
+          "x": 625,
+          "y": -350
+        },
+        {
+          "type": "single_rotator",
+          "x": 540,
+          "y": -750
+        },
+        {
+          "type": "tomato",
+          "x": 470,
+          "y": -1150
+        },
+        {
+          "type": "hamburger",
+          "x": 635,
+          "y": -1350
+        }
+      ]
+    },
+    {
+      "id": "chunk_m07",
+      "objects": [
+        {
+          "type": "hamburger",
+          "x": 630,
+          "y": -150
+        },
+        {
+          "type": "tomato",
+          "x": 445,
+          "y": -350
+        },
+        {
+          "type": "hamburger",
+          "x": 610,
+          "y": -550
+        },
+        {
+          "type": "single_rotator",
+          "x": 540,
+          "y": -950
+        },
+        {
+          "type": "hamburger",
+          "x": 430,
+          "y": -1350
+        }
+      ]
+    },
+    {
+      "id": "chunk_m08",
+      "objects": [
+        {
+          "type": "hamburger",
+          "x": 450,
+          "y": -150
+        },
+        {
+          "type": "roller",
+          "x": 635,
+          "y": -350
+        },
+        {
+          "type": "hamburger",
+          "x": 470,
+          "y": -550
+        },
+        {
+          "type": "single_rotator",
+          "x": 540,
+          "y": -950
+        },
+        {
+          "type": "hamburger",
+          "x": 620,
+          "y": -1350
+        }
+      ]
+    },
+    {
+      "id": "chunk_m09",
+      "objects": [
+        {
+          "type": "hamburger",
+          "x": 620,
+          "y": -150
+        },
+        {
+          "type": "hamburger",
+          "x": 445,
+          "y": -350
+        },
+        {
+          "type": "double_rotator",
+          "x": 540,
+          "y": -750
+        },
+        {
+          "type": "hamburger",
+          "x": 455,
+          "y": -1150
+        },
+        {
+          "type": "tomato",
+          "x": 635,
+          "y": -1350
+        }
+      ]
+    },
+    {
+      "id": "chunk_m10",
+      "objects": [
+        {
+          "type": "hamburger",
+          "x": 435,
+          "y": -150
+        },
+        {
+          "type": "hamburger",
+          "x": 620,
+          "y": -350
+        },
+        {
+          "type": "roller",
+          "x": 470,
+          "y": -550
+        },
+        {
+          "type": "hamburger",
+          "x": 640,
+          "y": -750
+        },
+        {
+          "type": "double_rotator",
+          "x": 540,
+          "y": -1150
+        }
+      ]
+    },
+    {
+      "id": "chunk_m11",
+      "objects": [
+        {
+          "type": "hamburger",
+          "x": 455,
+          "y": -150
+        },
+        {
+          "type": "hamburger",
+          "x": 635,
+          "y": -350
+        },
+        {
+          "type": "tomato",
+          "x": 500,
+          "y": -550
+        },
+        {
+          "type": "hamburger",
+          "x": 610,
+          "y": -750
+        },
+        {
+          "type": "single_rotator",
+          "x": 540,
+          "y": -1150
+        }
+      ]
+    },
+    {
+      "id": "chunk_m12",
+      "objects": [
+        {
+          "type": "hamburger",
+          "x": 605,
+          "y": -150
+        },
+        {
+          "type": "hamburger",
+          "x": 440,
+          "y": -350
+        },
+        {
+          "type": "double_rotator",
+          "x": 540,
+          "y": -750
+        },
+        {
+          "type": "tomato",
+          "x": 470,
+          "y": -1150
+        },
+        {
+          "type": "hamburger",
+          "x": 625,
+          "y": -1350
+        }
+      ]
+    },
+    {
+      "id": "chunk_m13",
+      "objects": [
+        {
+          "type": "hamburger",
+          "x": 430,
+          "y": -150
+        },
+        {
+          "type": "hamburger",
+          "x": 640,
+          "y": -350
+        },
+        {
+          "type": "hamburger",
+          "x": 470,
+          "y": -550
+        },
+        {
+          "type": "chef",
+          "x": 540,
+          "y": -750,
+          "hp": 3
+        },
+        {
+          "type": "hamburger",
+          "x": 620,
+          "y": -950
+        },
+        {
+          "type": "tomato",
+          "x": 450,
+          "y": -1150
+        },
+        {
+          "type": "hamburger",
+          "x": 590,
+          "y": -1350
+        }
+      ]
+    },
+    {
+      "id": "chunk_m14",
+      "objects": [
+        {
+          "type": "hamburger",
+          "x": 620,
+          "y": -150
+        },
+        {
+          "type": "roller",
+          "x": 445,
+          "y": -350
+        },
+        {
+          "type": "hamburger",
+          "x": 650,
+          "y": -550
+        },
+        {
+          "type": "single_rotator",
+          "x": 540,
+          "y": -950
+        },
+        {
+          "type": "hamburger",
+          "x": 470,
+          "y": -1350
+        }
+      ]
+    },
+    {
+      "id": "chunk_m15",
+      "objects": [
+        {
+          "type": "hamburger",
+          "x": 445,
+          "y": -150
+        },
+        {
+          "type": "hamburger",
+          "x": 625,
+          "y": -350
+        },
+        {
+          "type": "tomato",
+          "x": 520,
+          "y": -550
+        },
+        {
+          "type": "hamburger",
+          "x": 600,
+          "y": -750
+        },
+        {
+          "type": "single_rotator",
+          "x": 540,
+          "y": -1150
+        }
+      ]
+    },
+    {
+      "id": "chunk_m16",
+      "objects": [
+        {
+          "type": "hamburger",
+          "x": 635,
+          "y": -150
+        },
+        {
+          "type": "tomato",
+          "x": 455,
+          "y": -350
+        },
+        {
+          "type": "hamburger",
+          "x": 610,
+          "y": -550
+        },
+        {
+          "type": "chef",
+          "x": 540,
+          "y": -750,
+          "hp": 3
+        },
+        {
+          "type": "roller",
+          "x": 430,
+          "y": -950
+        },
+        {
+          "type": "hamburger",
+          "x": 625,
+          "y": -1150
+        },
+        {
+          "type": "hamburger",
+          "x": 500,
+          "y": -1350
+        }
+      ]
+    },
+    {
+      "id": "chunk_m17",
+      "objects": [
+        {
+          "type": "hamburger",
+          "x": 455,
+          "y": -150
+        },
+        {
+          "type": "single_rotator",
+          "x": 540,
+          "y": -550
+        },
+        {
+          "type": "hamburger",
+          "x": 630,
+          "y": -950
+        },
+        {
+          "type": "hamburger",
+          "x": 445,
+          "y": -1150
+        },
+        {
+          "type": "tomato",
+          "x": 620,
+          "y": -1350
+        }
+      ]
+    },
+    {
+      "id": "chunk_m18",
+      "objects": [
+        {
+          "type": "hamburger",
+          "x": 600,
+          "y": -150
+        },
+        {
+          "type": "hamburger",
+          "x": 430,
+          "y": -350
+        },
+        {
+          "type": "tomato",
+          "x": 645,
+          "y": -550
+        },
+        {
+          "type": "hamburger",
+          "x": 470,
+          "y": -750
+        },
+        {
+          "type": "double_rotator",
+          "x": 540,
+          "y": -1150
+        }
+      ]
+    },
+    {
+      "id": "chunk_m19",
+      "objects": [
+        {
+          "type": "hamburger",
+          "x": 430,
+          "y": -150
+        },
+        {
+          "type": "roller",
+          "x": 620,
+          "y": -350
+        },
+        {
+          "type": "double_rotator",
+          "x": 540,
+          "y": -750
+        },
+        {
+          "type": "hamburger",
+          "x": 450,
+          "y": -1150
+        },
+        {
+          "type": "hamburger",
+          "x": 630,
+          "y": -1350
+        }
+      ]
+    },
+    {
+      "id": "chunk_m20",
+      "objects": [
+        {
+          "type": "hamburger",
+          "x": 640,
+          "y": -150
+        },
+        {
+          "type": "roller",
+          "x": 455,
+          "y": -350
+        },
+        {
+          "type": "hamburger",
+          "x": 610,
+          "y": -550
+        },
+        {
+          "type": "hamburger",
+          "x": 470,
+          "y": -750
+        },
+        {
+          "type": "single_rotator",
+          "x": 540,
+          "y": -1150
+        }
+      ]
+    },
+    {
+      "id": "chunk_m21",
+      "objects": [
+        {
+          "type": "hamburger",
+          "x": 445,
+          "y": -150
+        },
+        {
+          "type": "hamburger",
+          "x": 630,
+          "y": -350
+        },
+        {
+          "type": "tomato",
+          "x": 520,
+          "y": -550
+        },
+        {
+          "type": "single_rotator",
+          "x": 540,
+          "y": -950
+        },
+        {
+          "type": "hamburger",
+          "x": 455,
+          "y": -1350
+        }
+      ]
+    },
+    {
+      "id": "chunk_m22",
+      "objects": [
+        {
+          "type": "hamburger",
+          "x": 620,
+          "y": -150
+        },
+        {
+          "type": "hamburger",
+          "x": 440,
+          "y": -350
+        },
+        {
+          "type": "hamburger",
+          "x": 645,
+          "y": -550
+        },
+        {
+          "type": "chef",
+          "x": 540,
+          "y": -750,
+          "hp": 4
+        },
+        {
+          "type": "hamburger",
+          "x": 430,
+          "y": -950
+        },
+        {
+          "type": "tomato",
+          "x": 610,
+          "y": -1150
+        },
+        {
+          "type": "hamburger",
+          "x": 455,
+          "y": -1350
+        }
+      ]
+    },
+    {
+      "id": "chunk_m23",
+      "objects": [
+        {
+          "type": "hamburger",
+          "x": 435,
+          "y": -150
+        },
+        {
+          "type": "tomato",
+          "x": 630,
+          "y": -350
+        },
+        {
+          "type": "hamburger",
+          "x": 470,
+          "y": -550
+        },
+        {
+          "type": "hamburger",
+          "x": 610,
+          "y": -750
+        },
+        {
+          "type": "single_rotator",
+          "x": 540,
+          "y": -1150
+        }
+      ]
+    },
+    {
+      "id": "chunk_m24",
+      "objects": [
+        {
+          "type": "hamburger",
+          "x": 615,
+          "y": -150
+        },
+        {
+          "type": "hamburger",
+          "x": 430,
+          "y": -350
+        },
+        {
+          "type": "roller",
+          "x": 650,
+          "y": -550
+        },
+        {
+          "type": "hamburger",
+          "x": 470,
+          "y": -750
+        },
+        {
+          "type": "double_rotator",
+          "x": 540,
+          "y": -1150
+        }
+      ]
+    },
+    {
+      "id": "chunk_m25",
+      "objects": [
+        {
+          "type": "hamburger",
+          "x": 450,
+          "y": -150
+        },
+        {
+          "type": "hamburger",
+          "x": 625,
+          "y": -350
+        },
+        {
+          "type": "double_rotator",
+          "x": 540,
+          "y": -750
+        },
+        {
+          "type": "hamburger",
+          "x": 470,
+          "y": -1150
+        },
+        {
+          "type": "tomato",
+          "x": 620,
+          "y": -1350
+        }
+      ]
+    },
+    {
+      "id": "chunk_m26",
+      "objects": [
+        {
+          "type": "hamburger",
+          "x": 630,
+          "y": -150
+        },
+        {
+          "type": "single_rotator",
+          "x": 540,
+          "y": -550
+        },
+        {
+          "type": "hamburger",
+          "x": 445,
+          "y": -950
+        },
+        {
+          "type": "roller",
+          "x": 620,
+          "y": -1150
+        },
+        {
+          "type": "hamburger",
+          "x": 470,
+          "y": -1350
+        }
+      ]
+    },
+    {
+      "id": "chunk_m27",
+      "objects": [
+        {
+          "type": "hamburger",
+          "x": 440,
+          "y": -150
+        },
+        {
+          "type": "hamburger",
+          "x": 620,
+          "y": -350
+        },
+        {
+          "type": "lettuce",
+          "x": 540,
+          "y": -550
+        },
+        {
+          "type": "tomato",
+          "x": 470,
+          "y": -750
+        },
+        {
+          "type": "single_rotator",
+          "x": 540,
+          "y": -1150
+        }
+      ]
+    },
+    {
+      "id": "chunk_m28",
+      "objects": [
+        {
+          "type": "hamburger",
+          "x": 620,
+          "y": -150
+        },
+        {
+          "type": "roller",
+          "x": 445,
+          "y": -350
+        },
+        {
+          "type": "hamburger",
+          "x": 640,
+          "y": -550
+        },
+        {
+          "type": "double_rotator",
+          "x": 540,
+          "y": -950
+        },
+        {
+          "type": "tomato",
+          "x": 470,
+          "y": -1350
+        }
+      ]
+    },
+    {
+      "id": "chunk_m29",
+      "objects": [
+        {
+          "type": "hamburger",
+          "x": 430,
+          "y": -150
+        },
+        {
+          "type": "hamburger",
+          "x": 635,
+          "y": -350
+        },
+        {
+          "type": "tomato",
+          "x": 520,
+          "y": -550
+        },
+        {
+          "type": "double_rotator",
+          "x": 540,
+          "y": -950
+        },
+        {
+          "type": "hamburger",
+          "x": 445,
+          "y": -1350
+        }
+      ]
+    },
+    {
+      "id": "chunk_m30",
+      "objects": [
+        {
+          "type": "hamburger",
+          "x": 615,
+          "y": -150
+        },
+        {
+          "type": "tomato",
+          "x": 430,
+          "y": -350
+        },
+        {
+          "type": "single_rotator",
+          "x": 540,
+          "y": -750
+        },
+        {
+          "type": "tomato",
+          "x": 470,
+          "y": -1150
+        },
+        {
+          "type": "hamburger",
+          "x": 640,
+          "y": -1350
+        }
+      ]
+    },
+    {
+      "id": "chunk_m31",
+      "objects": [
+        {
+          "type": "hamburger",
+          "x": 445,
+          "y": -150
+        },
+        {
+          "type": "hamburger",
+          "x": 625,
+          "y": -350
+        },
+        {
+          "type": "roller",
+          "x": 520,
+          "y": -550
+        },
+        {
+          "type": "hamburger",
+          "x": 600,
+          "y": -750
+        },
+        {
+          "type": "double_rotator",
+          "x": 540,
+          "y": -1150
+        }
+      ]
+    },
+    {
+      "id": "chunk_m32",
+      "objects": [
+        {
+          "type": "hamburger",
+          "x": 635,
+          "y": -150
+        },
+        {
+          "type": "hamburger",
+          "x": 455,
+          "y": -350
+        },
+        {
+          "type": "double_rotator",
+          "x": 540,
+          "y": -750
+        },
+        {
+          "type": "hamburger",
+          "x": 430,
+          "y": -1150
+        },
+        {
+          "type": "tomato",
+          "x": 625,
+          "y": -1350
+        }
+      ]
+    },
+    {
+      "id": "chunk_m33",
+      "objects": [
+        {
+          "type": "hamburger",
+          "x": 455,
+          "y": -150
+        },
+        {
+          "type": "double_rotator",
+          "x": 540,
+          "y": -550
+        },
+        {
+          "type": "hamburger",
+          "x": 630,
+          "y": -950
+        },
+        {
+          "type": "roller",
+          "x": 445,
+          "y": -1150
+        },
+        {
+          "type": "hamburger",
+          "x": 620,
+          "y": -1350
+        }
+      ]
+    },
+    {
+      "id": "chunk_m34",
+      "objects": [
+        {
+          "type": "hamburger",
+          "x": 600,
+          "y": -150
+        },
+        {
+          "type": "tomato",
+          "x": 430,
+          "y": -350
+        },
+        {
+          "type": "tomato",
+          "x": 645,
+          "y": -550
+        },
+        {
+          "type": "lettuce",
+          "x": 540,
+          "y": -750
+        },
+        {
+          "type": "hamburger",
+          "x": 450,
+          "y": -950
+        },
+        {
+          "type": "lettuce",
+          "x": 625,
+          "y": -1150
+        }
+      ]
+    },
+    {
+      "id": "chunk_m35",
+      "objects": [
+        {
+          "type": "hamburger",
+          "x": 430,
+          "y": -150
+        },
+        {
+          "type": "roller",
+          "x": 620,
+          "y": -350
+        },
+        {
+          "type": "hamburger",
+          "x": 470,
+          "y": -550
+        },
+        {
+          "type": "single_rotator",
+          "x": 540,
+          "y": -950
+        },
+        {
+          "type": "tomato",
+          "x": 630,
+          "y": -1350
+        }
+      ]
+    }
+  ],
+  "hard": [
+    {
+      "id": "chunk_h01",
+      "objects": [
+        {
+          "type": "hamburger",
+          "x": 437,
+          "y": -150
+        },
+        {
+          "type": "tomato",
+          "x": 643,
+          "y": -350
+        },
+        {
+          "type": "lettuce",
+          "x": 521,
+          "y": -550
+        },
+        {
+          "type": "roller",
+          "x": 458,
+          "y": -750
+        },
+        {
+          "type": "hamburger",
+          "x": 637,
+          "y": -950
+        },
+        {
+          "type": "tomato",
+          "x": 598,
+          "y": -1150
+        },
+        {
+          "type": "lettuce",
+          "x": 450,
+          "y": -1350
+        }
+      ]
+    },
+    {
+      "id": "chunk_h02",
+      "objects": [
+        {
+          "type": "roller",
+          "x": 448,
+          "y": -150
+        },
+        {
+          "type": "hamburger",
+          "x": 619,
+          "y": -350
+        },
+        {
+          "type": "lettuce",
+          "x": 441,
+          "y": -550
+        },
+        {
+          "type": "double_rotator",
+          "x": 540,
+          "y": -950
+        },
+        {
+          "type": "tomato",
+          "x": 427,
+          "y": -1350
+        }
+      ]
+    },
+    {
+      "id": "chunk_h03",
+      "objects": [
+        {
+          "type": "hamburger",
+          "x": 534,
+          "y": -150
+        },
+        {
+          "type": "single_rotator",
+          "x": 540,
+          "y": -550
+        },
+        {
+          "type": "roller",
+          "x": 648,
+          "y": -950
+        },
+        {
+          "type": "lettuce",
+          "x": 445,
+          "y": -1150
+        },
+        {
+          "type": "tomato",
+          "x": 612,
+          "y": -1350
+        }
+      ]
+    },
+    {
+      "id": "chunk_h04",
+      "objects": [
+        {
+          "type": "hamburger",
+          "x": 612,
+          "y": -150
+        },
+        {
+          "type": "lettuce",
+          "x": 443,
+          "y": -350
+        },
+        {
+          "type": "hamburger",
+          "x": 625,
+          "y": -550
+        },
+        {
+          "type": "roller",
+          "x": 451,
+          "y": -750
+        },
+        {
+          "type": "double_rotator",
+          "x": 540,
+          "y": -1150
+        }
+      ]
+    },
+    {
+      "id": "chunk_h05",
+      "objects": [
+        {
+          "type": "hamburger",
+          "x": 447,
+          "y": -150
+        },
+        {
+          "type": "tomato",
+          "x": 638,
+          "y": -350
+        },
+        {
+          "type": "lettuce",
+          "x": 523,
+          "y": -550
+        },
+        {
+          "type": "double_rotator",
+          "x": 540,
+          "y": -950
+        },
+        {
+          "type": "roller",
+          "x": 629,
+          "y": -1350
+        }
+      ]
+    },
+    {
+      "id": "chunk_h06",
+      "objects": [
+        {
+          "type": "hamburger",
+          "x": 430,
+          "y": -150
+        },
+        {
+          "type": "double_rotator",
+          "x": 540,
+          "y": -550
+        },
+        {
+          "type": "hamburger",
+          "x": 635,
+          "y": -950
+        },
+        {
+          "type": "roller",
+          "x": 455,
+          "y": -1150
+        },
+        {
+          "type": "hamburger",
+          "x": 610,
+          "y": -1350
+        }
+      ]
+    },
+    {
+      "id": "chunk_h07",
+      "objects": [
+        {
+          "type": "hamburger",
+          "x": 620,
+          "y": -150
+        },
+        {
+          "type": "roller",
+          "x": 430,
+          "y": -350
+        },
+        {
+          "type": "hamburger",
+          "x": 645,
+          "y": -550
+        },
+        {
+          "type": "double_rotator",
+          "x": 540,
+          "y": -950
+        },
+        {
+          "type": "tomato",
+          "x": 470,
+          "y": -1350
+        }
+      ]
+    },
+    {
+      "id": "chunk_h08",
+      "objects": [
+        {
+          "type": "hamburger",
+          "x": 445,
+          "y": -150
+        },
+        {
+          "type": "hamburger",
+          "x": 630,
+          "y": -350
+        },
+        {
+          "type": "tomato",
+          "x": 520,
+          "y": -550
+        },
+        {
+          "type": "double_rotator",
+          "x": 540,
+          "y": -950
+        },
+        {
+          "type": "hamburger",
+          "x": 455,
+          "y": -1350
+        }
+      ]
+    },
+    {
+      "id": "chunk_h09",
+      "objects": [
+        {
+          "type": "hamburger",
+          "x": 605,
+          "y": -150
+        },
+        {
+          "type": "hamburger",
+          "x": 440,
+          "y": -350
+        },
+        {
+          "type": "lettuce",
+          "x": 540,
+          "y": -550
+        },
+        {
+          "type": "tomato",
+          "x": 470,
+          "y": -750
+        },
+        {
+          "type": "hamburger",
+          "x": 625,
+          "y": -950
+        },
+        {
+          "type": "roller",
+          "x": 455,
+          "y": -1150
+        },
+        {
+          "type": "tomato",
+          "x": 590,
+          "y": -1350
+        }
+      ]
+    },
+    {
+      "id": "chunk_h10",
+      "objects": [
+        {
+          "type": "hamburger",
+          "x": 430,
+          "y": -150
+        },
+        {
+          "type": "roller",
+          "x": 640,
+          "y": -350
+        },
+        {
+          "type": "lettuce",
+          "x": 470,
+          "y": -550
+        },
+        {
+          "type": "single_rotator",
+          "x": 540,
+          "y": -950
+        },
+        {
+          "type": "tomato",
+          "x": 620,
+          "y": -1350
+        }
+      ]
+    },
+    {
+      "id": "chunk_h11",
+      "objects": [
+        {
+          "type": "hamburger",
+          "x": 620,
+          "y": -150
+        },
+        {
+          "type": "double_rotator",
+          "x": 540,
+          "y": -550
+        },
+        {
+          "type": "hamburger",
+          "x": 445,
+          "y": -950
+        },
+        {
+          "type": "roller",
+          "x": 650,
+          "y": -1150
+        },
+        {
+          "type": "hamburger",
+          "x": 470,
+          "y": -1350
+        }
+      ]
+    },
+    {
+      "id": "chunk_h12",
+      "objects": [
+        {
+          "type": "hamburger",
+          "x": 450,
+          "y": -150
+        },
+        {
+          "type": "roller",
+          "x": 625,
+          "y": -350
+        },
+        {
+          "type": "hamburger",
+          "x": 470,
+          "y": -550
+        },
+        {
+          "type": "double_rotator",
+          "x": 540,
+          "y": -950
+        },
+        {
+          "type": "hamburger",
+          "x": 620,
+          "y": -1350
+        }
+      ]
+    },
+    {
+      "id": "chunk_h13",
+      "objects": [
+        {
+          "type": "hamburger",
+          "x": 455,
+          "y": -150
+        },
+        {
+          "type": "tomato",
+          "x": 635,
+          "y": -350
+        },
+        {
+          "type": "tomato",
+          "x": 500,
+          "y": -550
+        },
+        {
+          "type": "lettuce",
+          "x": 610,
+          "y": -750
+        },
+        {
+          "type": "single_rotator",
+          "x": 540,
+          "y": -1150
+        }
+      ]
+    },
+    {
+      "id": "chunk_h14",
+      "objects": [
+        {
+          "type": "hamburger",
+          "x": 630,
+          "y": -150
+        },
+        {
+          "type": "tomato",
+          "x": 445,
+          "y": -350
+        },
+        {
+          "type": "double_rotator",
+          "x": 540,
+          "y": -750
+        },
+        {
+          "type": "hamburger",
+          "x": 430,
+          "y": -1150
+        },
+        {
+          "type": "roller",
+          "x": 620,
+          "y": -1350
+        }
+      ]
+    },
+    {
+      "id": "chunk_h15",
+      "objects": [
+        {
+          "type": "hamburger",
+          "x": 440,
+          "y": -150
+        },
+        {
+          "type": "hamburger",
+          "x": 620,
+          "y": -350
+        },
+        {
+          "type": "lettuce",
+          "x": 540,
+          "y": -550
+        },
+        {
+          "type": "roller",
+          "x": 470,
+          "y": -750
+        },
+        {
+          "type": "hamburger",
+          "x": 635,
+          "y": -950
+        },
+        {
+          "type": "tomato",
+          "x": 455,
+          "y": -1150
+        },
+        {
+          "type": "tomato",
+          "x": 600,
+          "y": -1350
+        }
+      ]
+    },
+    {
+      "id": "chunk_h16",
+      "objects": [
+        {
+          "type": "hamburger",
+          "x": 620,
+          "y": -150
+        },
+        {
+          "type": "roller",
+          "x": 445,
+          "y": -350
+        },
+        {
+          "type": "double_rotator",
+          "x": 540,
+          "y": -750
+        },
+        {
+          "type": "tomato",
+          "x": 470,
+          "y": -1150
+        },
+        {
+          "type": "hamburger",
+          "x": 610,
+          "y": -1350
+        }
+      ]
+    },
+    {
+      "id": "chunk_h17",
+      "objects": [
+        {
+          "type": "hamburger",
+          "x": 430,
+          "y": -150
+        },
+        {
+          "type": "double_rotator",
+          "x": 540,
+          "y": -550
+        },
+        {
+          "type": "hamburger",
+          "x": 640,
+          "y": -950
+        },
+        {
+          "type": "roller",
+          "x": 450,
+          "y": -1150
+        },
+        {
+          "type": "tomato",
+          "x": 620,
+          "y": -1350
+        }
+      ]
+    },
+    {
+      "id": "chunk_h18",
+      "objects": [
+        {
+          "type": "hamburger",
+          "x": 600,
+          "y": -150
+        },
+        {
+          "type": "lettuce",
+          "x": 430,
+          "y": -350
+        },
+        {
+          "type": "tomato",
+          "x": 645,
+          "y": -550
+        },
+        {
+          "type": "hamburger",
+          "x": 470,
+          "y": -750
+        },
+        {
+          "type": "double_rotator",
+          "x": 540,
+          "y": -1150
+        }
+      ]
+    },
+    {
+      "id": "chunk_h19",
+      "objects": [
+        {
+          "type": "hamburger",
+          "x": 430,
+          "y": -150
+        },
+        {
+          "type": "roller",
+          "x": 620,
+          "y": -350
+        },
+        {
+          "type": "double_rotator",
+          "x": 540,
+          "y": -750
+        },
+        {
+          "type": "hamburger",
+          "x": 450,
+          "y": -1150
+        },
+        {
+          "type": "hamburger",
+          "x": 630,
+          "y": -1350
+        }
+      ]
+    },
+    {
+      "id": "chunk_h20",
+      "objects": [
+        {
+          "type": "hamburger",
+          "x": 640,
+          "y": -150
+        },
+        {
+          "type": "roller",
+          "x": 455,
+          "y": -350
+        },
+        {
+          "type": "tomato",
+          "x": 610,
+          "y": -550
+        },
+        {
+          "type": "lettuce",
+          "x": 470,
+          "y": -750
+        },
+        {
+          "type": "double_rotator",
+          "x": 540,
+          "y": -1150
+        }
+      ]
+    },
+    {
+      "id": "chunk_h21",
+      "objects": [
+        {
+          "type": "hamburger",
+          "x": 445,
+          "y": -150
+        },
+        {
+          "type": "double_rotator",
+          "x": 540,
+          "y": -550
+        },
+        {
+          "type": "tomato",
+          "x": 520,
+          "y": -950
+        },
+        {
+          "type": "hamburger",
+          "x": 455,
+          "y": -1150
+        },
+        {
+          "type": "roller",
+          "x": 625,
+          "y": -1350
+        }
+      ]
+    },
+    {
+      "id": "chunk_h22",
+      "objects": [
+        {
+          "type": "hamburger",
+          "x": 620,
+          "y": -150
+        },
+        {
+          "type": "hamburger",
+          "x": 440,
+          "y": -350
+        },
+        {
+          "type": "lettuce",
+          "x": 645,
+          "y": -550
+        },
+        {
+          "type": "double_rotator",
+          "x": 540,
+          "y": -950
+        },
+        {
+          "type": "tomato",
+          "x": 430,
+          "y": -1350
+        }
+      ]
+    },
+    {
+      "id": "chunk_h23",
+      "objects": [
+        {
+          "type": "hamburger",
+          "x": 435,
+          "y": -150
+        },
+        {
+          "type": "tomato",
+          "x": 630,
+          "y": -350
+        },
+        {
+          "type": "hamburger",
+          "x": 470,
+          "y": -550
+        },
+        {
+          "type": "double_rotator",
+          "x": 540,
+          "y": -950
+        },
+        {
+          "type": "hamburger",
+          "x": 445,
+          "y": -1350
+        }
+      ]
+    },
+    {
+      "id": "chunk_h24",
+      "objects": [
+        {
+          "type": "hamburger",
+          "x": 615,
+          "y": -150
+        },
+        {
+          "type": "lettuce",
+          "x": 430,
+          "y": -350
+        },
+        {
+          "type": "roller",
+          "x": 650,
+          "y": -550
+        },
+        {
+          "type": "hamburger",
+          "x": 470,
+          "y": -750
+        },
+        {
+          "type": "double_rotator",
+          "x": 540,
+          "y": -1150
+        }
+      ]
+    },
+    {
+      "id": "chunk_h25",
+      "objects": [
+        {
+          "type": "hamburger",
+          "x": 450,
+          "y": -150
+        },
+        {
+          "type": "hamburger",
+          "x": 625,
+          "y": -350
+        },
+        {
+          "type": "double_rotator",
+          "x": 540,
+          "y": -750
+        },
+        {
+          "type": "tomato",
+          "x": 470,
+          "y": -1150
+        },
+        {
+          "type": "tomato",
+          "x": 620,
+          "y": -1350
+        }
+      ]
+    },
+    {
+      "id": "chunk_h26",
+      "objects": [
+        {
+          "type": "hamburger",
+          "x": 630,
+          "y": -150
+        },
+        {
+          "type": "single_rotator",
+          "x": 540,
+          "y": -550
+        },
+        {
+          "type": "hamburger",
+          "x": 445,
+          "y": -950
+        },
+        {
+          "type": "roller",
+          "x": 620,
+          "y": -1150
+        },
+        {
+          "type": "hamburger",
+          "x": 600,
+          "y": -1350
+        }
+      ]
+    },
+    {
+      "id": "chunk_h27",
+      "objects": [
+        {
+          "type": "hamburger",
+          "x": 440,
+          "y": -150
+        },
+        {
+          "type": "hamburger",
+          "x": 620,
+          "y": -350
+        },
+        {
+          "type": "tomato",
+          "x": 540,
+          "y": -550
+        },
+        {
+          "type": "tomato",
+          "x": 470,
+          "y": -750
+        },
+        {
+          "type": "double_rotator",
+          "x": 540,
+          "y": -1150
+        }
+      ]
+    },
+    {
+      "id": "chunk_h28",
+      "objects": [
+        {
+          "type": "hamburger",
+          "x": 620,
+          "y": -150
+        },
+        {
+          "type": "roller",
+          "x": 445,
+          "y": -350
+        },
+        {
+          "type": "hamburger",
+          "x": 640,
+          "y": -550
+        },
+        {
+          "type": "double_rotator",
+          "x": 540,
+          "y": -950
+        },
+        {
+          "type": "tomato",
+          "x": 470,
+          "y": -1350
+        }
+      ]
+    },
+    {
+      "id": "chunk_h29",
+      "objects": [
+        {
+          "type": "hamburger",
+          "x": 430,
+          "y": -150
+        },
+        {
+          "type": "hamburger",
+          "x": 635,
+          "y": -350
+        },
+        {
+          "type": "tomato",
+          "x": 520,
+          "y": -550
+        },
+        {
+          "type": "lettuce",
+          "x": 540,
+          "y": -750
+        },
+        {
+          "type": "tomato",
+          "x": 445,
+          "y": -950
+        },
+        {
+          "type": "roller",
+          "x": 620,
+          "y": -1150
+        },
+        {
+          "type": "hamburger",
+          "x": 590,
+          "y": -1350
+        }
+      ]
+    },
+    {
+      "id": "chunk_h30",
+      "objects": [
+        {
+          "type": "hamburger",
+          "x": 615,
+          "y": -150
+        },
+        {
+          "type": "tomato",
+          "x": 430,
+          "y": -350
+        },
+        {
+          "type": "single_rotator",
+          "x": 540,
+          "y": -750
+        },
+        {
+          "type": "hamburger",
+          "x": 470,
+          "y": -1150
+        },
+        {
+          "type": "lettuce",
+          "x": 640,
+          "y": -1350
+        }
+      ]
+    },
+    {
+      "id": "chunk_h31",
+      "objects": [
+        {
+          "type": "hamburger",
+          "x": 445,
+          "y": -150
+        },
+        {
+          "type": "hamburger",
+          "x": 625,
+          "y": -350
+        },
+        {
+          "type": "roller",
+          "x": 520,
+          "y": -550
+        },
+        {
+          "type": "hamburger",
+          "x": 600,
+          "y": -750
+        },
+        {
+          "type": "double_rotator",
+          "x": 540,
+          "y": -1150
+        }
+      ]
+    },
+    {
+      "id": "chunk_h32",
+      "objects": [
+        {
+          "type": "hamburger",
+          "x": 635,
+          "y": -150
+        },
+        {
+          "type": "hamburger",
+          "x": 455,
+          "y": -350
+        },
+        {
+          "type": "double_rotator",
+          "x": 540,
+          "y": -750
+        },
+        {
+          "type": "hamburger",
+          "x": 430,
+          "y": -1150
+        },
+        {
+          "type": "tomato",
+          "x": 625,
+          "y": -1350
+        }
+      ]
+    },
+    {
+      "id": "chunk_h33",
+      "objects": [
+        {
+          "type": "hamburger",
+          "x": 455,
+          "y": -150
+        },
+        {
+          "type": "double_rotator",
+          "x": 540,
+          "y": -550
+        },
+        {
+          "type": "lettuce",
+          "x": 630,
+          "y": -950
+        },
+        {
+          "type": "roller",
+          "x": 445,
+          "y": -1150
+        },
+        {
+          "type": "tomato",
+          "x": 620,
+          "y": -1350
+        }
+      ]
+    },
+    {
+      "id": "chunk_h34",
+      "objects": [
+        {
+          "type": "hamburger",
+          "x": 600,
+          "y": -150
+        },
+        {
+          "type": "hamburger",
+          "x": 430,
+          "y": -350
+        },
+        {
+          "type": "tomato",
+          "x": 645,
+          "y": -550
+        },
+        {
+          "type": "double_rotator",
+          "x": 540,
+          "y": -950
+        },
+        {
+          "type": "hamburger",
+          "x": 450,
+          "y": -1350
+        }
+      ]
+    },
+    {
+      "id": "chunk_h35",
+      "objects": [
+        {
+          "type": "hamburger",
+          "x": 430,
+          "y": -150
+        },
+        {
+          "type": "roller",
+          "x": 620,
+          "y": -350
+        },
+        {
+          "type": "tomato",
+          "x": 470,
+          "y": -550
+        },
+        {
+          "type": "double_rotator",
+          "x": 540,
+          "y": -950
+        },
+        {
+          "type": "tomato",
+          "x": 630,
+          "y": -1350
+        }
+      ]
+    }
+  ],
+  "special" : [
+    
+  {
+    "id": "chunk_v01",
+    "objects": [
+      { "type": "tomato", "x": 430, "y": -150 },
+      { "type": "tomato", "x": 620, "y": -350 },
+      { "type": "tomato", "x": 470, "y": -550 },
+      { "type": "tomato", "x": 640, "y": -750 },
+      { "type": "tomato", "x": 445, "y": -950 },
+      { "type": "tomato", "x": 610, "y": -1150 },
+      { "type": "tomato", "x": 520, "y": -1350 }
+    ]
+  },
+  {
+    "id": "chunk_v02",
+    "objects": [
+      { "type": "tomato", "x": 615, "y": -150 },
+      { "type": "tomato", "x": 440, "y": -350 },
+      { "type": "tomato", "x": 635, "y": -550 },
+      { "type": "tomato", "x": 455, "y": -750 },
+      { "type": "tomato", "x": 600, "y": -950 },
+      { "type": "tomato", "x": 470, "y": -1150 },
+      { "type": "tomato", "x": 625, "y": -1350 }
+    ]
+  },
+  {
+    "id": "chunk_v03",
+    "objects": [
+      { "type": "tomato", "x": 450, "y": -150 },
+      { "type": "tomato", "x": 630, "y": -350 },
+      { "type": "tomato", "x": 500, "y": -550 },
+      { "type": "tomato", "x": 620, "y": -750 },
+      { "type": "tomato", "x": 430, "y": -950 },
+      { "type": "tomato", "x": 590, "y": -1150 },
+      { "type": "tomato", "x": 445, "y": -1350 }
+    ]
+  },
+
+  {
+    "id": "chunk_v04",
+    "objects": [
+      { "type": "lettuce", "x": 440, "y": -150 },
+      { "type": "lettuce", "x": 625, "y": -350 },
+      { "type": "lettuce", "x": 470, "y": -550 },
+      { "type": "lettuce", "x": 610, "y": -750 },
+      { "type": "lettuce", "x": 455, "y": -950 },
+      { "type": "lettuce", "x": 635, "y": -1150 },
+      { "type": "lettuce", "x": 520, "y": -1350 }
+    ]
+  },
+  {
+    "id": "chunk_v05",
+    "objects": [
+      { "type": "lettuce", "x": 620, "y": -150 },
+      { "type": "lettuce", "x": 430, "y": -350 },
+      { "type": "lettuce", "x": 640, "y": -550 },
+      { "type": "lettuce", "x": 450, "y": -750 },
+      { "type": "lettuce", "x": 600, "y": -950 },
+      { "type": "lettuce", "x": 470, "y": -1150 },
+      { "type": "lettuce", "x": 615, "y": -1350 }
+    ]
+  },
+  {
+    "id": "chunk_v06",
+    "objects": [
+      { "type": "lettuce", "x": 455, "y": -150 },
+      { "type": "lettuce", "x": 610, "y": -350 },
+      { "type": "lettuce", "x": 445, "y": -550 },
+      { "type": "lettuce", "x": 630, "y": -750 },
+      { "type": "lettuce", "x": 500, "y": -950 },
+      { "type": "lettuce", "x": 620, "y": -1150 },
+      { "type": "lettuce", "x": 430, "y": -1350 }
+    ]
+  },
+
+  {
+    "id": "chunk_v07",
+    "objects": [
+      { "type": "roller", "x": 450, "y": -150 },
+      { "type": "roller", "x": 620, "y": -350 },
+      { "type": "roller", "x": 470, "y": -550 },
+      { "type": "roller", "x": 630, "y": -750 },
+      { "type": "roller", "x": 445, "y": -950 },
+      { "type": "roller", "x": 610, "y": -1150 },
+      { "type": "roller", "x": 500, "y": -1350 }
+    ]
+  },
+  {
+    "id": "chunk_v08",
+    "objects": [
+      { "type": "roller", "x": 620, "y": -150 },
+      { "type": "roller", "x": 440, "y": -350 },
+      { "type": "roller", "x": 640, "y": -550 },
+      { "type": "roller", "x": 455, "y": -750 },
+      { "type": "roller", "x": 600, "y": -950 },
+      { "type": "roller", "x": 470, "y": -1150 },
+      { "type": "roller", "x": 625, "y": -1350 }
+    ]
+  },
+  {
+    "id": "chunk_v09",
+    "objects": [
+      { "type": "roller", "x": 430, "y": -150 },
+      { "type": "roller", "x": 610, "y": -350 },
+      { "type": "roller", "x": 450, "y": -550 },
+      { "type": "roller", "x": 635, "y": -750 },
+      { "type": "roller", "x": 500, "y": -950 },
+      { "type": "roller", "x": 620, "y": -1150 },
+      { "type": "roller", "x": 445, "y": -1350 }
+    ]
+  }
+
+  ]
+}
